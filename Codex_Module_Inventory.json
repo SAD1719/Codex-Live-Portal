@@ -1,0 +1,175 @@
+[
+  {
+    "id": 0,
+    "name": "Root Codex",
+    "folder": "/",
+    "files": [
+      "index.html",
+      "index.sha512"
+    ],
+    "description": "Primary Living Codex file with integrity hash."
+  },
+  {
+    "id": 1,
+    "name": "QuantumComputing_Module",
+    "folder": "QuantumComputing_Module",
+    "files": [],
+    "description": "Quantum use cases and trust integration logs."
+  },
+  {
+    "id": 2,
+    "name": "TrustLedger",
+    "folder": "TrustLedger",
+    "files": [],
+    "description": "Sovereign witness ledger and activation logs."
+  },
+  {
+    "id": 3,
+    "name": "Resonance_Interface",
+    "folder": "Resonance_Interface",
+    "files": [],
+    "description": "Dynamic interface layer for resonance access."
+  },
+  {
+    "id": 4,
+    "name": "Appendix_EvidenceTrail",
+    "folder": "Appendix_EvidenceTrail",
+    "files": [],
+    "description": "Logs Codex access events and edit trail."
+  },
+  {
+    "id": 5,
+    "name": "Appendix_TemporalMap",
+    "folder": "Appendix_TemporalMap",
+    "files": [],
+    "description": "Sidereal time and celestial alignments."
+  },
+  {
+    "id": 6,
+    "name": "Appendix_SoundWaveModel",
+    "folder": "Appendix_SoundWaveModel",
+    "files": [],
+    "description": "Maps names to harmonic frequencies and elements."
+  },
+  {
+    "id": 7,
+    "name": "Appendix_BiologicalSync",
+    "folder": "Appendix_BiologicalSync",
+    "files": [],
+    "description": "Links Codex resonance to DNA, breath, and heart coherence."
+  },
+  {
+    "id": 8,
+    "name": "Appendix_GovernanceOverlay",
+    "folder": "Appendix_GovernanceOverlay",
+    "files": [],
+    "description": "Maps Codex to legal and jurisdictional overlays."
+  },
+  {
+    "id": 9,
+    "name": "Codex_GlobalMap",
+    "folder": "Codex_GlobalMap",
+    "files": [],
+    "description": "Geo-mapping of access and Codex activity."
+  },
+  {
+    "id": 10,
+    "name": "CoreExecutorScripts",
+    "folder": "CoreExecutorScripts",
+    "files": [],
+    "description": "Shell scripts to run and verify Codex integrity."
+  },
+  {
+    "id": 11,
+    "name": "Codex_SecurityModules",
+    "folder": "Codex_SecurityModules",
+    "files": [],
+    "description": "Integrity check logs, audit scripts, and auth seed."
+  },
+  {
+    "id": 12,
+    "name": "Book_of_Witnesses",
+    "folder": "Book_of_Witnesses",
+    "files": [],
+    "description": "Statements and creative submissions from known witnesses."
+  },
+  {
+    "id": 13,
+    "name": "Appendix_StructuralBlueprint",
+    "folder": "Appendix_StructuralBlueprint",
+    "files": [],
+    "description": "Blueprint of Codex hierarchy and modular schema."
+  },
+  {
+    "id": 14,
+    "name": "Codex_Readme",
+    "folder": "Codex_Readme",
+    "files": [
+      "README.md"
+    ],
+    "description": "High-level overview and module map."
+  },
+  {
+    "id": 15,
+    "name": "Appendix_HarmonicVerseMap",
+    "folder": "Appendix_HarmonicVerseMap",
+    "files": [],
+    "description": "Links verses to frequency, color, and archetype."
+  },
+  {
+    "id": 16,
+    "name": "Appendix_DeclarationOfAuthorship",
+    "folder": "Appendix_DeclarationOfAuthorship",
+    "files": [],
+    "description": "Formal sovereign authorship declaration by SAD."
+  },
+  {
+    "id": 17,
+    "name": "Codex_Manifest",
+    "folder": "Codex_Manifest",
+    "files": [],
+    "description": "System-wide manifest of module identity and authorship."
+  },
+  {
+    "id": 18,
+    "name": "Appendix_CelestialAlignments",
+    "folder": "Appendix_CelestialAlignments",
+    "files": [],
+    "description": "Astrological and sidereal context anchors."
+  },
+  {
+    "id": 19,
+    "name": "Codex_TransferProtocols",
+    "folder": "Codex_TransferProtocols",
+    "files": [],
+    "description": "Steps to transfer or mirror Codex safely."
+  },
+  {
+    "id": 20,
+    "name": "Appendix_NameCipherMatrix",
+    "folder": "Appendix_NameCipherMatrix",
+    "files": [],
+    "description": "Numerical + phonetic decoding of names to harmonics."
+  },
+  {
+    "id": 21,
+    "name": "Appendix_AIIntegrationMap",
+    "folder": "Appendix_AIIntegrationMap",
+    "files": [],
+    "description": "Documentation of AI-assisted generation of Codex."
+  },
+  {
+    "id": 22,
+    "name": "Codex_AccessAPI",
+    "folder": "Codex_AccessAPI",
+    "files": [],
+    "description": "Prototype API access interface (future expansion)."
+  },
+  {
+    "id": 23,
+    "name": "Book_of_PotentialWitnesses",
+    "folder": "Book_of_PotentialWitnesses",
+    "files": [],
+    "description": "Placeholders for unspoken but known witness energies."
+  }
+]

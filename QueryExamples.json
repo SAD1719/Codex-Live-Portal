@@ -1,0 +1,4 @@
+{
+  "query": "GET /Resonance_Interface/VerseToQuantumMap.json",
+  "response": "{ 'Book IX:Verse17': 'Q-Entanglement_Validation' }"
+}

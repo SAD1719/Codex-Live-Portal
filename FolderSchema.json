@@ -1,0 +1,4 @@
+{
+  "root": ["index.html", "index.sha512"],
+  "modules": ["QuantumComputing_Module", "TrustLedger", "Resonance_Interface", "Appendix_*"]
+}

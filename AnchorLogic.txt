@@ -1,0 +1,1 @@
+Each folder contains its own timestamped data and integrity path. No folder is dependent on central server logic.
