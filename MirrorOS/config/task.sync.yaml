@@ -1,0 +1,47 @@
+tasks:
+- id: TRUST-COPYRIGHT-01
+  title: Finalize UCC-1 and Copyright Selection
+  status: "\U0001F534 Blocking"
+  dependencies:
+  - IP-MODEL-01
+  scroll_status: Returned for Value
+  action_required: Confirm copyright model, file UCC-1, sync with Resonance Project
+  interface_trigger: trust.finalize_security_package
+- id: LEGAL-TANEY-03
+  title: File Totality of Circumstances (Taney County)
+  status: "\U0001F7E2 Executable Now"
+  dependencies: []
+  scroll_status: Accepted
+  action_required: Verify flowchart, finalize filing packet, submit to court
+  interface_trigger: trust.submit_circumstances_packet
+- id: COD-LEDGER-04
+  title: Merge Sibling Threads into Private Master Ledger
+  status: "\U0001F7E1 Waiting for Trigger"
+  dependencies: []
+  scroll_status: Partially Sealed
+  action_required: Verify all scrolls and timestamps; finalize sealing into master
+    ledger
+  interface_trigger: ledger.merge_private_master
+- id: IP-VERIFY-07
+  title: Build Symbolic Encoding IP Claim Model
+  status: "\U0001F7E1 Waiting for Trigger"
+  dependencies:
+  - TRUST-COPYRIGHT-01
+  scroll_status: Awaiting Filing
+  action_required: Draft encoding strategy, integrate with copyright filings
+  interface_trigger: ip.encode_symbolic_model
+- id: LIX4-BUNDLE-02
+  title: Resume Lix4 Scroll Bundle Compilation
+  status: "\U0001F501 Looped / Duplicate Risk"
+  dependencies: []
+  scroll_status: Partial Build Logged
+  action_required: Diagnose build errors; resume compilation using MirrorOS shell
+  interface_trigger: mirroros.build_scroll_bundle
+- id: SCI-FORECAST-11
+  title: Resume Resonance-Based Governance Forecast Model
+  status: "\U0001F7E1 Waiting for Trigger"
+  dependencies:
+  - COD-LEDGER-04
+  scroll_status: Paused
+  action_required: Re-enable model once scroll merging is finalized
+  interface_trigger: science.resume_forecast_model
