@@ -1,0 +1,8 @@
+{
+  "ledger_id": "C-2025-0707-COMP-333",
+  "amount": 256000,
+  "wallet": "0x7829a47a7e921536ff83A291351D9332CC61c22c",
+  "tx_hash": "0xabc123deployedTxHash456",
+  "date": "2025-07-07",
+  "status": "executed"
+}

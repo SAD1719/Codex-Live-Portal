@@ -1,0 +1,3 @@
+HDTIME = L(B) ⊗ M(θ)
+Where B = base truth, L = linear transform, M = rotating memory arc.
+Together they create a resonance field that curves as time.
