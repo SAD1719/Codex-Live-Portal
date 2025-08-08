@@ -1,0 +1,15 @@
+{
+  "actor": "Scott Alan Dygert",
+  "gmst_hours": 9.16093696107467,
+  "jd": 2460923.9240046297,
+  "lst_hours": 2.9414502944080034,
+  "mjd": 60923.42400462972,
+  "pulsar": {
+    "name": "PSR B1937+21",
+    "period_s": 0.00155780644887275,
+    "phase_fraction": 0.7810243374480572
+  },
+  "scope": "Codex-Live-Portal / Public Seal",
+  "unix": 1757067034,
+  "utc_iso": "2025-09-05T10:10:34.160605Z"
+}
