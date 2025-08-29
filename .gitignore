@@ -1,0 +1,7 @@
+# macOS resource forks
+._*
+.DS_Store
+
+# big bundles and old mirrors we don't want on main
+Archives/
+Scroll_Protection_Packet.zip
